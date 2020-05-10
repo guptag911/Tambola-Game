@@ -1,0 +1,6 @@
+opencv-python
+pillow
+python-tk
+numpy
+playsound
+

@@ -24,6 +24,8 @@ It also give you option to pause the game.Along with that if you want to make de
 4. Run command "pip install -r requirements.txt"
 5. Run command "python main.py"
 
+NOTE: Python must be installed on your system along with pip and all enviroment variables must be configured accordingly.
+
 # Some Images of Software
 ## Start Screen
 

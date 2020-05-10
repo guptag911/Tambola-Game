@@ -17,6 +17,13 @@ It also give you option to pause the game.Along with that if you want to make de
 5. Direct acess to tombola board during the game.
 6. No INTERNET Required.
 
+# How To Install
+1. Clone the repository and Unzip it.
+2. Navigate to the folder.
+3. Open cmd/PowerShell or terminal in that directory.
+4. Run command "pip install -r requirements.txt"
+5. Run command "python main.py"
+
 # Some Images of Software
 ## Start Screen
 

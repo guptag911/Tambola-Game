@@ -15,14 +15,14 @@ Getting bored! Let's play tambola or housie. This software genrated random numbe
 
 ## Some numbers randomly called
 
-![In Game]()
+![In Game](https://github.com/guptag911/Tambola-Game/blob/master/Images%20of%20game/in_game1.png)
 
 ## Remaining numbers turns red when less than 10
 
-![Red_Label]()
+![Red_Label](https://github.com/guptag911/Tambola-Game/blob/master/Images%20of%20game/red_label.png)
 
 ## Game Finished
 
-![Game Over]()
+![Game Over](https://github.com/guptag911/Tambola-Game/blob/master/Images%20of%20game/Game_over.png)
 
 

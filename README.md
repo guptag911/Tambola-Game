@@ -11,7 +11,7 @@ Getting bored! Let's play tambola or housie. This software genrated random numbe
 # Some Images of Software
 ## Start Screen
 
-![Start Screen]()
+![Start Screen](https://github.com/guptag911/Tambola-Game/blob/master/Images%20of%20game/Game_Start.png)
 
 ## Some numbers randomly called
 

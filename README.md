@@ -1,5 +1,6 @@
-# Tambola-Game
-Getting bored! Let's play tambola or housie. This software genrated random number and speaks for you along with that it also shows you the board.
+# Tambola Game
+Getting bored! Let's play Tambola/Housie. This software genrates and speaks randomly generated numbers form 1 to 90 and on every number call that number is shown on right screen along with that number is marked by a red circle on the tambola board.
+It also give you option to pause the game.Along with that if you want to make delay between number call as slow or fast you can also do that by entering your desired time delay.Play tambola with absolute no cheating and have fun with your friends and family. GIVE IT A TRY! 
 
 # Key Features
 1. Calls numbers randomly (with sound).
